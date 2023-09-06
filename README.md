@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, I'm Çınar 👋
 
-<!--
-**CinarKK9/CinarKK9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer passionate about creating beautiful and user-friendly websites. I primarily focus on front-end development but also delve into learning back-end and various front-end frameworks.
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML, CSS, JavaScript
+- Front-end Technologies (React, Bootsreap)
+- Back-end Technologies (PHP)
+- Responsive Web Design
+- UI/UX Principles
+
+## 🌱 Learning
+
+I'm currently expanding my knowledge in:
+
+- Back-end Development (C, C++, C#)
+- Front-end Frameworks (React, Electron)
+
+## 🚀 Projects
+
+Check out some of my projects on my [GitHub](https://github.com/CinarKK9).
