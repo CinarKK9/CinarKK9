@@ -5,7 +5,7 @@ I'm a web developer passionate about creating beautiful and user-friendly websit
 ## 🔧 Skills
 
 - HTML, CSS, JavaScript
-- Front-end Technologies (React, Bootsreap)
+- Front-end Technologies (React, Bootstrap)
 - Back-end Technologies (PHP)
 - Responsive Web Design
 - UI/UX Principles
@@ -14,7 +14,8 @@ I'm a web developer passionate about creating beautiful and user-friendly websit
 
 I'm currently expanding my knowledge in:
 
-- Back-end Development (C, C++, C#)
+- Back-end Development (PHP, C#)
+- Systems Development (C, C++)
 - Front-end Frameworks (React, Electron)
 
 ## 🚀 Projects
