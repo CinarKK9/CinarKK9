@@ -9,8 +9,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CinarKK9&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Contributions
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/CinarKK9)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CinarKK9&icon=0&color=0)](https://visitcount.itsvg.in)
